@@ -1,5 +1,4 @@
-# segment
-Migrate GO redirector to Nginx
+# Migrate Segment GO redirector to Nginx
 
 ## Healthy check port 443
 
